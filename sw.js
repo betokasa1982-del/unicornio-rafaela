@@ -1,6 +1,6 @@
 // Unicórnio da Rafaela — service worker
 // Bump VERSION on every release so phones pick up the new files.
-const VERSION = 'v1';
+const VERSION = 'v2';
 const CACHE = 'unicornio-' + VERSION;
 const SHELL = [
   './',

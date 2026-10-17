@@ -3,7 +3,7 @@
   "short_name": "Unicórnio",
   "description": "Jogo de unicórnio: colorir desenhos e montar quebra-cabeças.",
   "lang": "pt-BR",
-  "id": "./",
+  "id": "/unicornio-rafaela/",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
